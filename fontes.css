@@ -1,0 +1,39 @@
+/* Define as fontes */
+body {
+    background-color:grey ;
+    font-family: Arial, sans-serif;
+  }
+  .font1 {
+    font-family: 'Roboto', sans-serif;
+    color: blue;
+    font-size: 25px;
+  }
+  .font2 {
+    font-family: 'Open Sans', sans-serif;
+    color: brown;
+    font-size: 25px;
+  }
+  .font3 {
+    font-family: 'Montserrat', sans-serif;
+    color: blueviolet;
+    font-size: 25px;
+  }
+  .font4 {
+    font-family: 'Raleway', sans-serif;
+    color: crimson;
+    font-size: 25px;
+  }
+  .font5 {
+    font-family: 'Lato', sans-serif;
+    color: greenyellow;
+    font-size: 25px;
+  }
+  /* Estilização dos textos */
+  .font-preview {
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #000;
+    margin: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
